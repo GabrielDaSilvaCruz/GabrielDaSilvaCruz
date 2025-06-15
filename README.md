@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @GabrielDaSilvaCruz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Gabriel 👨‍💻</h1>
 
-<!---
-GabrielDaSilvaCruz/GabrielDaSilvaCruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  Engenheiro de Software
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+Sou apaixonado por tecnologia e programação. Sempre buscando evoluir, aprender e compartilhar conhecimento.
+
+---
+
+### 🛠️ Tecnologias Principais
+
+- **Next.js**  
+- **React**  
+- **Node.js**  
+- **Python**  
+- **Docker**  
+- **React Native**  
+
+---
+
+### 📫 Contato
+
+- 📧 **E-mail/Teams**: Gabriel.Silva@triskin.tech  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-blz/)  
+- 🗂️ [Portfólio (em breve)](https://github.com/Gabrielscruz?tab=repositories)
+
+---
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
+
